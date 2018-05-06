@@ -13,7 +13,7 @@ public class TextController : MonoBehaviour {
     public Text text;
     private enum States { cell,         mirror,         sheets_0,
                           lock_0,       cell_mirror,    sheets_1,
-                          lock_1,       floor,        corridor_0,
+                          lock_1,       floor,        	corridor_0,
                           corridor_1,   corridor_2,     corridor_3,
                           stairs_0,     stairs_1,       stairs_2,
                           courtyard,    closet_door,    in_closet
